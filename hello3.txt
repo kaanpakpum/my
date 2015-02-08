@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello file3
+=======
+Add test hello3
+Add test 
+>>>>>>> 62f232e7955fbc0417ef67ceb1dee7ea16342a80
